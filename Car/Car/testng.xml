@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Car Valuation Suite" verbose="1" parallel="false">
+    <test name="CarValuationTests">
+        <classes>
+            <class name="org.example.tests.CarValuationTest"/>
+        </classes>
+    </test>
+</suite>
