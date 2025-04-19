@@ -19,3 +19,5 @@ Click Run 'testng.xml'
 This does the same as above via the GUI
 
 or Right click on the CarValuationTest.java and select Run Java
+
+ Driver path should be as per the user’s system
